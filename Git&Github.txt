@@ -1,0 +1,121 @@
+===============================================================
+
+
+
+# <For_Creat_Repo_by_clone_&_PUSH> :
+
+1) Creat :
+      - Creat Repository by README.md File
+      - copy URL Repo
+      - mkdir Exm
+      - cd Exm
+      - git clone link Repo
+      - cd NameRepo
+
+2) Push :
+      - git push origin main      
+
+
+
+===============================================================
+        $_Git & Github_$
+===============================================================
+
+
+
+# <For_Creat_Repo_by_init> :
+
+
+1) Creat :
+      - mkdir Exm
+      - cd Exm
+      - git init Exm
+       
+      - Creat repo in Github without README.md
+      - Copy URL Repo
+
+2)- Push :
+      - git remote add origin link URL Fore Repo
+      - git branch -M main
+      - git push origin main
+
+
+
+===============================================================
+        $_Git & Github_$
+===============================================================
+
+
+
+# <For_config> :
+
+
+
+1 ==> git config --global user.name "Exm"
+
+2 ==> git config --global user.email "Exam@gmail.com"
+
+3 ==> git config --global --edit
+
+4 ==> git config --global alias.es Example
+
+
+
+===============================================================
+         $_git & Github_$
+===============================================================
+
+
+
+# <For_Branch> :
+
+
+                                                              
+1 ==> git branch                                              
+
+2 ==> git branch Examples                                     
+                                                              
+3 ==> git branch -d Examples / -D Examples
+
+4 ==> git checkout -b Exampl
+
+5 ==> git branch -m Example 
+
+
+
+===============================================================
+        $_Git & Github_$
+===============================================================
+
+
+# <Order> :
+
+
+1 ==> git status
+
+2 ==> git add <file ..>
+
+3 ==> git commit -m "Write Notes and new"
+
+4 ==> git checkout (Transition Place)
+
+
+5 ==> git remote -v
+
+6 ==> git merge (..)
+
+7 ==> git log
+
+8 ==> a)- git restore --staged <file>
+      b)- git reset head <file>
+      
+      <to withdraw file from git add>
+
+
+
+===============================================================
+
+
+
+                                                         < My English is Low >
+                                                           < Just a Summary >
