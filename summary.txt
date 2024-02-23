@@ -101,6 +101,10 @@
 
 
 5 ==> git remote -v
+     
+        Note ==>  For remove an origin use :
+	                                           - git remote remove origin 
+
 
 6 ==> git merge (..)
 
