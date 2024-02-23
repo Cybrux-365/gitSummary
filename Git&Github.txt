@@ -2,7 +2,7 @@
 
 
 
-# <For_Creat_Repo_by_clone_&_PUSH> :
+# <Use_git clone_&_PUSH> :
 
 1) Creat :
       - Creat Repository by README.md File
@@ -23,7 +23,7 @@
 
 
 
-# <For_Creat_Repo_by_init> :
+# <Use_git init_&_PUSH> :
 
 
 1) Creat :
@@ -31,7 +31,7 @@
       - cd Exm
       - git init Exm
        
-      - Creat repo in Github without README.md
+      - Creat repo in Github
       - Copy URL Repo
 
 2)- Push :
@@ -51,7 +51,7 @@
 
 
 
-1 ==> git config --global user.name "Exm"
+1 ==> git config --global user.name "Example"
 
 2 ==> git config --global user.email "Exam@gmail.com"
 
@@ -88,7 +88,7 @@
 ===============================================================
 
 
-# <Order> :
+# <Some of The Commands> :
 
 
 1 ==> git status
